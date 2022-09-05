@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="login_prompt">Prvo se prijavite</string>
+    <string name="edt_email">Unesite svoj email</string>
+    <string name="edt_password">Unesite svoju lozinku</string>
+    <string name="btn_login">Prijava</string>
+    <string name="btn_signup">Stvaranje računa</string>
+    <string name="edt_new_user">Stvori novog korisnika</string>
+    <string name="edt_username">Unesite korisničko ime</string>
+    <string name="edt_message">Upišite svoju poruku</string>
+</resources>
